@@ -12,6 +12,11 @@ function App() {
       <DigitButton onClick={handleAddDigit} digit="3"/>
       <DigitButton onClick={handleAddDigit} digit="4"/>
       <DigitButton onClick={handleAddDigit} digit="5"/>
+      <DigitButton onClick={handleAddDigit} digit="6"/>
+      <DigitButton onClick={handleAddDigit} digit="7"/>
+      <DigitButton onClick={handleAddDigit} digit="8"/>
+      <DigitButton onClick={handleAddDigit} digit="9"/>
+      <DigitButton onClick={handleAddDigit} digit="0"/>
       </>
   );
 }
